@@ -1,0 +1,961 @@
+F1,Description,Property Type,Price,Lot Area,Toatal Floor Area,Location,Street,City,Location - Split 3
+0,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+1,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+2,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+3,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+4,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+5,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",,Parañaque,Metro Manila
+6,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+7,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+8,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",,Taguig,Metro Manila
+9,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",,Taguig,Metro Manila
+10,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+11,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+12,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+13,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",,Taguig,Metro Manila
+14,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+15,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+16,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",,Taguig,Metro Manila
+17,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+18,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+19,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+20,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+21,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+22,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+23,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+24,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+25,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",,Parañaque,Metro Manila
+26,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+27,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+28,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",,Taguig,Metro Manila
+29,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",,Taguig,Metro Manila
+30,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+31,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+32,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+33,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",,Taguig,Metro Manila
+34,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+35,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+36,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",,Taguig,Metro Manila
+37,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+38,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+39,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+40,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+41,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+42,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+43,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+44,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+45,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",,Parañaque,Metro Manila
+46,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+47,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+48,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",,Taguig,Metro Manila
+49,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",,Taguig,Metro Manila
+50,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+51,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+52,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+53,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",,Taguig,Metro Manila
+54,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+55,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+56,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",,Taguig,Metro Manila
+57,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+58,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+59,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+60,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+61,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+62,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+63,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+64,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+65,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",,Parañaque,Metro Manila
+66,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+67,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+68,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",,Taguig,Metro Manila
+69,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",,Taguig,Metro Manila
+70,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+71,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+72,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+73,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",,Taguig,Metro Manila
+74,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+75,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+76,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",,Taguig,Metro Manila
+77,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+78,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+79,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+80,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+81,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+82,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+83,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+84,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+85,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",,Parañaque,Metro Manila
+86,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+87,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+88,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",,Taguig,Metro Manila
+89,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",,Taguig,Metro Manila
+90,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+91,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+92,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+93,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+94,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+95,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+96,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+97,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+98,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+99,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+100,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+101,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+102,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+103,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+104,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+105,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+106,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+107,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+108,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+109,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+110,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+111,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+112,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+113,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+114,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+115,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+116,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+117,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+118,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+119,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+120,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+121,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+122,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+123,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+124,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+125,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+126,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+127,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+128,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+129,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+130,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+131,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+132,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+133,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+134,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+135,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+136,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+137,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+138,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+139,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+140,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+141,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+142,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+143,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+144,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+145,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+146,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+147,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+148,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+149,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+150,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+151,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+152,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+153,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+154,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+155,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+156,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+157,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+158,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+159,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+160,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+161,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+162,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+163,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+164,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+165,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+166,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+167,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+168,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+169,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+170,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+171,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+172,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+173,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+174,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+175,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+176,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+177,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+178,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+179,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+180,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+181,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+182,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+183,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+184,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+185,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+186,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+187,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+188,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+189,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+190,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+191,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+192,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+193,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+194,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+195,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+196,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+197,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+198,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+199,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+200,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+201,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+202,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+203,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+204,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+205,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+206,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+207,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+208,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+209,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+210,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+211,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+212,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+213,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+214,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+215,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+216,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+217,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+218,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+219,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+220,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+221,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+222,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+223,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+224,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+225,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+226,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+227,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+228,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+229,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+230,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+231,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+232,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+233,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+234,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+235,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+236,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+237,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+238,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+239,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+240,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+241,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+242,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+243,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+244,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+245,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+246,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+247,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+248,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+249,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+250,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+251,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+252,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+253,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+254,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+255,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+256,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+257,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+258,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+259,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+260,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+261,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+262,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+263,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+264,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+265,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+266,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+267,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+268,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+269,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+270,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+271,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+272,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+273,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+274,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+275,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+276,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+277,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+278,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+279,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+280,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+281,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+282,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+283,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+284,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+285,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+286,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+287,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+288,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+289,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+290,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+291,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+292,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+293,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+294,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+295,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+296,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+297,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+298,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+299,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+300,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+301,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+302,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+303,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+304,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+305,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+306,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+307,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+308,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+309,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+310,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+311,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+312,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+313,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+314,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+315,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+316,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+317,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+318,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+319,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+320,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+321,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+322,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+323,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+324,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+325,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+326,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+327,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+328,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+329,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+330,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+331,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+332,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+333,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+334,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+335,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+336,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+337,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+338,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+339,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+340,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+341,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+342,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+343,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+344,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+345,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+346,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+347,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+348,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+349,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+350,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+351,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+352,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+353,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+354,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+355,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+356,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+357,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+358,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+359,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+360,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+361,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+362,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+363,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+364,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+365,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+366,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+367,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+368,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+369,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+370,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+371,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+372,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+373,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+374,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+375,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+376,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+377,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+378,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+379,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+380,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+381,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+382,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+383,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+384,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+385,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+386,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+387,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+388,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+389,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+390,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+391,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+392,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+393,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+394,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+395,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+396,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+397,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+398,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+399,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+400,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+401,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+402,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+403,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+404,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+405,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+406,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+407,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+408,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+409,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+410,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+411,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+412,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+413,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+414,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+415,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+416,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+417,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+418,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+419,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+420,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+421,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+422,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+423,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+424,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+425,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+426,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+427,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+428,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+429,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+430,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+431,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+432,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+433,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+434,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+435,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+436,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+437,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+438,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+439,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+440,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+441,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+442,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+443,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+444,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+445,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+446,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+447,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+448,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+449,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+450,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+451,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+452,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+453,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+454,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+455,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+456,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+457,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+458,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+459,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+460,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+461,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+462,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+463,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+464,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+465,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+466,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+467,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+468,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+469,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+470,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+471,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+472,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+473,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+474,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+475,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+476,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+477,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+478,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+479,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+480,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+481,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+482,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+483,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+484,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+485,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+486,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+487,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+488,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+489,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+490,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+491,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+492,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+493,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+494,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+495,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+496,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+497,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+498,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+499,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+500,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+501,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+502,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+503,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+504,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+505,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+506,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+507,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+508,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+509,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+510,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+511,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+512,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+513,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+514,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+515,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+516,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+517,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+518,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+519,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+520,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+521,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+522,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+523,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+524,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+525,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+526,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+527,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+528,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+529,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+530,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+531,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+532,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+533,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+534,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+535,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+536,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+537,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+538,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+539,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+540,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+541,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+542,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+543,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+544,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+545,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+546,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+547,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+548,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+549,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+550,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+551,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+552,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+553,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+554,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+555,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+556,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+557,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+558,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+559,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+560,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+561,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+562,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+563,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+564,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+565,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+566,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+567,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+568,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+569,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+570,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+571,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+572,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+573,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+574,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+575,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+576,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+577,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+578,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+579,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+580,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+581,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+582,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+583,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+584,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+585,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+586,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+587,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+588,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+589,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+590,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+591,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+592,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+593,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+594,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+595,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+596,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+597,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+598,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+599,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+600,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+601,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+602,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+603,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+604,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+605,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+606,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+607,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+608,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+609,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+610,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+611,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+612,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+613,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+614,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+615,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+616,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+617,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+618,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+619,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+620,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+621,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+622,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+623,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+624,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+625,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+626,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+627,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+628,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+629,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+630,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+631,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+632,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+633,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+634,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+635,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+636,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+637,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+638,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+639,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+640,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+641,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+642,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+643,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+644,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+645,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+646,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+647,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+648,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+649,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+650,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+651,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+652,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+653,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+654,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+655,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+656,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+657,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+658,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+659,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+660,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+661,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+662,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+663,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+664,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+665,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+666,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+667,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+668,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+669,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+670,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+671,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+672,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+673,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+674,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+675,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+676,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+677,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+678,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+679,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+680,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+681,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+682,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+683,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+684,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+685,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+686,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+687,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+688,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+689,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+690,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+691,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+692,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+693,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+694,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+695,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+696,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+697,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+698,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+699,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+700,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+701,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+702,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+703,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+704,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+705,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+706,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+707,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+708,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+709,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+710,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+711,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+712,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+713,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+714,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+715,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+716,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+717,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+718,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+719,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+720,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+721,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+722,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+723,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+724,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+725,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+726,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+727,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+728,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+729,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+730,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+731,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+732,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+733,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+734,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+735,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+736,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+737,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+738,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+739,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+740,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+741,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+742,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+743,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+744,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+745,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+746,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+747,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+748,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+749,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+750,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+751,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+752,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+753,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+754,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+755,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+756,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+757,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+758,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+759,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+760,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+761,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+762,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+763,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+764,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+765,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+766,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+767,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+768,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+769,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+770,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+771,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+772,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+773,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+774,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+775,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+776,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+777,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+778,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+779,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+780,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+781,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+782,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+783,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+784,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+785,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+786,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+787,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+788,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+789,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+790,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+791,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+792,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+793,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+794,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+795,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+796,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+797,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+798,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+799,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+800,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+801,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+802,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+803,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+804,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+805,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+806,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+807,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+808,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+809,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+810,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+811,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+812,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+813,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+814,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+815,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+816,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+817,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+818,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+819,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+820,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+821,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+822,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+823,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+824,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+825,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+826,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+827,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+828,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+829,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+830,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+831,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+832,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+833,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+834,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+835,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+836,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+837,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+838,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+839,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+840,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+841,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+842,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+843,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+844,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+845,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+846,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+847,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+848,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+849,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+850,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+851,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+852,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+853,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+854,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+855,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+856,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+857,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+858,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+859,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+860,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+861,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+862,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+863,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+864,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+865,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+866,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+867,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+868,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+869,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+870,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+871,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+872,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+873,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+874,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+875,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+876,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+877,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+878,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+879,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+880,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+881,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+882,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+883,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+884,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+885,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+886,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+887,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+888,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+889,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+890,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+891,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+892,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+893,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+894,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+895,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+896,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+897,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+898,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+899,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+900,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+901,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+902,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+903,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+904,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+905,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+906,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+907,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+908,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+909,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+910,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+911,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+912,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+913,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+914,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+915,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+916,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+917,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+918,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+919,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+920,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+921,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+922,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+923,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+924,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+925,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+926,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+927,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+928,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+929,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+930,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+931,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+932,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+933,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+934,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+935,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+936,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+937,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+938,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+939,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
+940,"2 Bedroom Unit in Manila Luxury Condominium, Pasig",Condominium,65000,,183 sqm,"Pearl Dr, Pasig, Kalakhang Maynila",Pearl Dr,Pasig,Kalakhang Maynila
+941,"Very Nice Studio Condo in The Columns, Makati",Condominium,25000,,30 sqm,"Ayala Avenue, Makati, Metro Manila",Ayala Avenue,Makati,Metro Manila
+942,"2 Bedroom Condo in Escala Salcedo, Makati",Condominium,110000,,105 sqm,"L.P. Leviste Street, Makati, Metro Manila",L.P. Leviste Street,Makati,Metro Manila
+943,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,140000,,123 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+944,"2 Bedroom Condo in The Residences at Greenbelt, Makati",Condominium,145000,,136 sqm,"Paseo de Roxas, Makati, Metro Manila",Paseo de Roxas,Makati,Metro Manila
+945,"4 Bedroom House & Lot, Parañaque",House and Lot,220000,150 sqm,200 sqm,"Parañaque, Metro Manila",Parañaque,Parañaque,Metro Manila
+946,"1 Bedroom Condo in Four Season Riviera, Manila",Condominium,25000,,47 sqm,"Numancia Street, Manila, Metro Manila",Numancia Street,Manila,Metro Manila
+947,"Studio Condo in Verve Residences, Taguig",Condominium,40000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+948,"2 Bedroom Condo in One McKinley Place, Taguig",Condominium,120000,,119 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+949,"2 Bedroom Condo in The Montane, Taguig",Condominium,60000,,54 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+950,"1 Bedroom Condo in Verve Residences, Taguig",Condominium,35000,,37 sqm,"26th Street, Taguig, Metro Manila",26th Street,Taguig,Metro Manila
+951,"1 Bedroom Condo in Two Serendra, Taguig",Condominium,80000,,64 sqm,"McKinley Parkway, Taguig, Metro Manila",McKinley Parkway,Taguig,Metro Manila
+952,"1 Bedroom Condo in The Bellagio, Taguig",Condominium,49000,,60 sqm,"1st Avenue, Taguig, Metro Manila",1st Avenue,Taguig,Metro Manila
+953,"1 Bedroom Condo in Avida Towers 34th St., Taguig",Condominium,35000,,40 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+954,"1 Bedroom Condo in Forbeswood Parklane, Taguig",Condominium,32000,,37 sqm,"Rizal Drive, Taguig, Metro Manila",Rizal Drive,Taguig,Metro Manila
+955,"2 Bedroom Condo in The Solstice, Makati",Condominium,75000,,80 sqm,"Circuit, Makati, Metro Manila",Circuit,Makati,Metro Manila
+956,"Studio Condo in The Maridien, Taguig",Condominium,35000,,46 sqm,"Taguig, Metro Manila",Taguig,Taguig,Metro Manila
+957,"Studio Condo in One Pacific Place, Makati",Condominium,23000,,23 sqm,"H.V. Dela Costa, Makati, Metro Manila",H.V. Dela Costa,Makati,Metro Manila
+958,"1 Bedroom Condo in The Rise Makati, Makati",Condominium,45000,,28 sqm,"Yakal, Makati, Kalakhang Maynila",Yakal,Makati,Kalakhang Maynila
+959,"3 Bedroom Condo in Royal Palm Residences, Taguig",Condominium,40000,,97 sqm,"Acacia Avenue, Taguig, Metro Manila",Acacia Avenue,Taguig,Metro Manila
